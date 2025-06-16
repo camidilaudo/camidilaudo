@@ -1,20 +1,20 @@
 <h1 align="center">Hola! Soy Camila Di Laudo 👋</h1>
 
----
+<br/>
 
 <h2 align="left">✨ Sobre mí :</h2>
 
-<p align="left">
+<p align="left" style="line-height: 1.6;">
   👩‍💻 Estudiante de segundo año de Licenciatura en Gestión de Tecnologías de la Información en UADE.<br/>
   📚 Donde adquirí conocimientos sobre desarrollo, algoritmos, estructuras de datos, metodologías ágiles, pruebas automatizadas, aseguramiento de calidad y optimización de procesos.<br/>
   ✔️ Actualmente cuento con 10 de 40 materias aprobadas.
 </p>
 
----
+<br/>
 
 <h2 align="left">💻 Tecnologías que uso :</h2>
 
-<div align="left">
+<div align="left" style="margin-bottom: 30px;">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo" />
@@ -28,11 +28,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
 </div>
 
----
-
 <h2 align="left">📬 Contactate conmigo :</h2>
 
-<div align="left">
+<div align="left" style="margin-bottom: 40px;">
   <a href="https://www.linkedin.com/in/dilaudocamila" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
@@ -41,12 +39,10 @@
   </a>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/camidilaudo/camidilaudo/output/snake.svg" alt="Snake animation" />
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/camidilaudo/camidilaudo/output/snake.svg" alt="Snake animation" />
+<hr style="border: 0; height: 1px; background: #ccc; margin-top: 40px; margin-bottom: 20px;" />
 
----
-
-<p align="left">¡Gracias por visitar mi perfil! 💖</p>
+<p align="left" style="font-size: 1.2em;">¡Gracias por visitar mi perfil! 💖</p>
