@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/Y8I1mEJb6egAAAAC/kawaii-anime.gif" width="200"/>
+  <img src="https://media.tenor.com/6xP9_hgKDQoAAAAi/kawaii-cute.gif" width="200"/>
 </p>
 
 
