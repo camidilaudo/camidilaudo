@@ -2,8 +2,9 @@
   ✨ Hola, soy <span style="color:#fca311">Camila</span> 👋
 </h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/ME2ytUppJkRJf2UAnU/giphy.gif" width="90"/>
+  <img src="https://media.tenor.com/images/65100729292209495/tenor.gif" width="220"/>
 </p>
+
 
 
 
