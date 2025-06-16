@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family:'Lucida Handwriting',cursive; color:#f472b6; font-size: 48px;">
+<h1 align="center" style="font-family:'Lucida Handwriting',cursive; color:#f472b6; font-size: 48;">
   ✨ Hola, soy <span style="color:#fca311">Camila</span> 👋
 </h1>
 
