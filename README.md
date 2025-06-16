@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hola! Soy Camila 👋</h1>
 
 <!--
 **camidilaudo/camidilaudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
