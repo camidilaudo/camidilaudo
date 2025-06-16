@@ -32,7 +32,6 @@
 
 <img src="https://raw.githubusercontent.com/camidilaudo/camidilaudo/output/snake.svg" alt="Snake animation" />
 
-
 ###
 
 <p align="left">¡Gracias por visitar mi perfil! 💖</p>
