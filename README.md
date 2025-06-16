@@ -1,5 +1,9 @@
-<h1 align="center">Hola! Soy Camila 👋</h1>
-
+<h1 align="center">
+  ✨ Hola, soy <span style="color:#fca311">Camila</span> 👋
+</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+</p>
 <!--
 **camidilaudo/camidilaudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
