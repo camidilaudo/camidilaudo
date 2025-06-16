@@ -1,17 +1,14 @@
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td valign="middle" style="padding-right: 12px; border: none;">
-      <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Wave Sticker" width="80" style="border-radius: 10px; display: block;" />
-    </td>
-    <td valign="middle" style="border: none; font-family: 'Segoe Script', cursive; color: #d6336c;">
-      <h1 style="margin: 0; font-size: 3.2rem;">
-        ¡Hola! Bienvenid@ a mi GitHub
-      </h1>
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px; font-family: 'Segoe Script', cursive; color: #d6336c;">
 
-<p align="center" style="font-family: 'Segoe Script', cursive; color: #f783ac; font-size: 18px; max-width: 650px; margin: 10px auto 30px auto;">
+  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Wave Sticker" width="80" style="border-radius: 10px;" />
+
+  <h1 style="margin: 0; font-size: 3.2rem;">
+    ¡Hola! Bienvenid@ a mi GitHub
+  </h1>
+
+</div>
+
+<p align="center" style="font-family: 'Segoe Script', cursive; color: #f783ac; font-size: 18px; max-width: 650px; margin: 20px auto 30px auto;">
   Soy Camila Di Laudo, una apasionada desarrolladora de software que crea con cariño y estilo.<br/>
   Me encanta aprender y compartir proyectos que inspiran.
 </p>
