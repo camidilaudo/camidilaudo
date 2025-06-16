@@ -1,31 +1,10 @@
-<h1 align="center" style="font-family:'Lucida Handwriting',cursive; color:#f472b6; font-size: 48px;">
-  🌸 Bienvenida a mi GitHub 🌸
-</h1>
-
-<!-- Saludo 👋 con GIF animado aesthetic -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="200"/>
+  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="200" />
 </p>
 
-<!-- Sticker cute programando -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXg1OGhqbDZlZmlyYnpzNmxhNzBtZ3U5eTNkYjR5M3Z0dHFxdG1rYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEduSbSGpGaRX2Vri/giphy.gif" width="220"/>
-</p>
-
-<!-- Sticker pixel girly aesthetic -->
-<p align="center">
-  <img src="https://media.giphy.com/media/p0G_bmA2vSYAAAAi/peach-and-goma.gif" width="150"/>
-</p>
-
-<!-- Sticker corazones flotando -->
-<p align="center">
-  <img src="https://media.giphy.com/media/j2GGHzqlkU5HG/giphy.gif" width="180"/>
-</p>
-
-<!-- Fondo suave tipo “mood” -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200"/>
-</p>
+<h2 align="center" style="font-family: 'Segoe Script', cursive; color: #f472b6;">
+  ¡Hola! 👋 Bienvenid@ a mi GitHub
+</h2>
 
 
 
