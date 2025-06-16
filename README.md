@@ -1,22 +1,24 @@
 <div align="center">
 
-  <!-- GIF wave -->
-  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Wave" width="180" style="border-radius: 15px;" />
+  <!-- GIF wave sin bordes ni estilos que deformen -->
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" 
+    alt="Wave" 
+    width="200" 
+    style="display: block; margin: 0 auto;" 
+  />
 
-  <!-- Espacio -->
-  <br /><br />
+  <br />
 
-  <!-- Texto saludo con estilo -->
-  <h1 style="font-family: 'Segoe Script', cursive; color: #f472b6; font-weight: 600; margin: 0;">
-    ¡Hola! <span style="font-size: 1.4em;">👋</span>
+  <h1 style="font-family: 'Segoe Script', cursive; color: #f472b6;">
+    ¡Hola! <span style="font-size: 1.5em;">👋</span>
   </h1>
 
-  <p style="font-family: 'Comic Sans MS', cursive; color: #f9a8d4; font-size: 18px; margin-top: 5px;">
+  <p style="font-family: 'Comic Sans MS', cursive; color: #f9a8d4; font-size: 20px; margin-top: 0;">
     Bienvenid@ a mi GitHub
   </p>
 
 </div>
-
 
 
 
