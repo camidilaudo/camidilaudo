@@ -1,10 +1,8 @@
-<h1 align="center">
+<h1 align="center" style="font-family:'Lucida Handwriting',cursive; color:#f472b6; font-size: 48px;">
   ✨ Hola, soy <span style="color:#fca311">Camila</span> 👋
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/4Z3DdOZRTcXPa/giphy.gif" width="200"/>
-</p>
+
 
 
 
