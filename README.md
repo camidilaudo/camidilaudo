@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">✨ Sobre mi  :</h2>
+<h2 align="left">✨ Sobre mi :</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Tecnologias que uso :</h2>
+<h2 align="left">💻Tecnologias que uso :</h2>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="left">Contactate conmigo :</h2>
+<h2 align="left">📬Contactate conmigo :</h2>
 
 <div align="left">
 <a href="https://www.linkedin.com/in/dilaudocamila" target="_blank">
