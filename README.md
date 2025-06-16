@@ -2,6 +2,30 @@
   🌸 Bienvenida a mi GitHub 🌸
 </h1>
 
+<!-- Saludo 👋 con GIF animado aesthetic -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="200"/>
+</p>
+
+<!-- Sticker cute programando -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXg1OGhqbDZlZmlyYnpzNmxhNzBtZ3U5eTNkYjR5M3Z0dHFxdG1rYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEduSbSGpGaRX2Vri/giphy.gif" width="220"/>
+</p>
+
+<!-- Sticker pixel girly aesthetic -->
+<p align="center">
+  <img src="https://media.giphy.com/media/p0G_bmA2vSYAAAAi/peach-and-goma.gif" width="150"/>
+</p>
+
+<!-- Sticker corazones flotando -->
+<p align="center">
+  <img src="https://media.giphy.com/media/j2GGHzqlkU5HG/giphy.gif" width="180"/>
+</p>
+
+<!-- Fondo suave tipo “mood” -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200"/>
+</p>
 
 
 
