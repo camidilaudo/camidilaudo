@@ -1,10 +1,12 @@
-<table align="center" style="border: none;">
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr>
-    <td valign="middle" style="padding-right: 15px;">
-      <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Wave Sticker" width="80" style="border-radius: 10px;" />
+    <td valign="middle" style="padding-right: 12px; border: none;">
+      <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Wave Sticker" width="80" style="border-radius: 10px; display: block;" />
     </td>
-    <td valign="middle" style="font-family: 'Segoe Script', cursive; color: #d6336c;">
-      <h1 style="margin: 0; font-size: 3.2rem;">¡Hola! Bienvenid@ a mi GitHub</h1>
+    <td valign="middle" style="border: none; font-family: 'Segoe Script', cursive; color: #d6336c;">
+      <h1 style="margin: 0; font-size: 3.2rem;">
+        ¡Hola! Bienvenid@ a mi GitHub
+      </h1>
     </td>
   </tr>
 </table>
@@ -39,5 +41,5 @@
 
 <p align="center" style="font-family: monospace;">
   📧 <a href="mailto:tucorreo@email.com" style="color:#d6336c; text-decoration:none;">tucorreo@email.com</a> &nbsp;&nbsp; | &nbsp;&nbsp; 
-  🔗 <a href="https://linkedin.com/in/tuusuario" style="color:#d6336c; tex
-
+  🔗 <a href="https://linkedin.com/in/tuusuario" style="color:#d6336c; text-decoration:none;">linkedin.com/in/tuusuario</a>
+</p>
