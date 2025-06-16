@@ -43,6 +43,4 @@
 
 <br/>
 
-<hr style="border: 0; height: 1px; background: #ccc; margin-top: 40px; margin-bottom: 20px;" />
-
 <p align="left" style="font-size: 1.2em;">¡Gracias por visitar mi perfil! 💖</p>
