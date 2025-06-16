@@ -2,7 +2,7 @@
   ✨ Hola, soy <span style="color:#fca311">Camila</span> 👋
 </h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw2bHU3YjZ3ZGJoa3A1dms3NXR4eHRjcjIzZWt4Z2p1ZWF5czZibCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5t9wJjyHAOxvnzZMOs/giphy.gif" width="200"/>
 </p>
 <!--
 **camidilaudo/camidilaudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
