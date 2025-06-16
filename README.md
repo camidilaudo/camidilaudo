@@ -1,4 +1,4 @@
-<h1 align="center">Hola! Soy Camila Di laudo 👋</h1>
+<h1 align="center">Hola! Soy Camila Di Laudo 👋</h1>
 
 ###
 
