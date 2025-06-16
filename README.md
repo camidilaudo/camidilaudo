@@ -1,8 +1,9 @@
 <h1 align="center">
   ✨ Hola, soy <span style="color:#fca311">Camila</span> 👋
 </h1>
+
 <p align="center">
-  <img src="https://media.tenor.com/images/65100729292209495/tenor.gif" width="220"/>
+  <img src="https://media.tenor.com/Y8I1mEJb6egAAAAC/kawaii-anime.gif" width="200"/>
 </p>
 
 
