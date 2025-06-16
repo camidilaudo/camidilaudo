@@ -1,26 +1,39 @@
-<h3 align="center">Tecnologías y Lenguajes</h3>
+<h1 align="center">Hola! Soy Camila Di laudo 👋</h1>
 
-<table align="center" cellspacing="20">
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" alt="Java" /><br/>
-      <strong>Java</strong>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="Python" /><br/>
-      <strong>Python</strong>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" /><br/>
-      <strong>JavaScript</strong>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" alt="HTML5" /><br/>
-      <strong>HTML5</strong>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" alt="CSS3" /><br/>
-      <strong>CSS3</strong>
-    </td>
-  </tr>
-</table>
+###
+
+<h2 align="left">✨ Sobre mi  :</h2>
+
+###
+
+<p align="left">👩‍💻Estudiante de Licenciatura en Gestión de Tecnologías de la Información en UADE.<br>📚 Donde adquirí conocimientos sobre desarrollo, algoritmos, estructuras de datos, metodologías ágiles, pruebas automatizadas, aseguramiento de calidad y optimización de procesos.<br>🎯 Actualmente cuento con 10 de 40 materias aprobadas.</p>
+
+###
+
+<h2 align="left">Tecnologias que uso :</h2>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/camidilaudo/camidilaudo/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">¡Gracias por visitar mi perfil! 💖</p>
+
+###
