@@ -6,7 +6,7 @@
 
 <p align="left" style="line-height: 1.6;">
   👩‍💻 Estudiante de segundo año de Licenciatura en Gestión de Tecnologías de la Información en UADE.<br/>
-  📚 Donde adquirí conocimientos sobre desarrollo, algoritmos, estructuras de datos, metodologías ágiles, pruebas automatizadas, aseguramiento de calidad y optimización de procesos.<br/>
+  📚 Donde adquirí conocimientos sobre desarrollo, algoritmos, estructuras de datos, programacion orientada a objetos, metodologías ágiles, pruebas automatizadas, aseguramiento de calidad y optimización de procesos.<br/>
   ✔️ Actualmente cuento con 10 de 40 materias aprobadas.
 </p>
 
